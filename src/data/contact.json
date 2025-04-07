@@ -1,24 +1,24 @@
 {
-  "email": "jane.doe@example.com",
+  "email": "cpmeneses94@gmail.com",
   "socialMedia": [
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/janedoe",
+      "url": "https://www.linkedin.com/in/carlos-patricio-meneses-rodr%C3%ADguez-390a591b8/",
       "icon": "linkedin"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/janedoe",
+      "url": "https://github.com/cpmeneses",
       "icon": "github"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/janedoe",
+      "url": "https://x.com/CarlosP15148207",
       "icon": "twitter"
     },
     {
       "name": "Instagram",
-      "url": "https://instagram.com/janedoe.dev",
+      "url": "https://www.instagram.com/elcarlosmeneses/",
       "icon": "instagram"
     }
   ]
