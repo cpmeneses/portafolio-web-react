@@ -25,5 +25,14 @@
     "liveUrl": "https://huemullitio.itch.io/tonecluster",
     "githubUrl": "https://github.com/cpmeneses/ToneClusterAndroid_2022",
     "tags": ["Unity", "C#", "Android", "PlayFab"]
+  },
+  {
+    "id": 2,
+    "name": "Página de Hospital",
+    "description": "Página que muestra información de doctores y permite realizar reservas.",
+    "image": "/medico2.jpg",
+    "liveUrl": "https://m5-ejercicio4-orpin.vercel.app/",
+    "githubUrl": "https://github.com/cpmeneses/m5_ejercicio4",
+    "tags": ["React", "Next.js", "Tailwind CSS", "TypeScript"]
   }
 ]
